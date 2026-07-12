@@ -1,0 +1,128 @@
+{
+  "schema": "ff_pinns_code_only_manifest_v1",
+  "release_policy": "source code and support metadata only; no manuscripts, submission documents, data, results, figures, checkpoints, or model weights",
+  "file_count": 24,
+  "total_bytes": 286034,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 227,
+      "sha256": "e292366c3307d802b05f18ca21fa162bd0ef5c5210cbb63a88da7f1517609b84"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 797,
+      "sha256": "659756e5eff9838d2c5f982caa90b16c1be13df6580351cfe870a7637297be92"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1065,
+      "sha256": "8b5a801b459fa7739d8579ae76799575175244b445e6c142ea7b4d4edfd760d7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2065,
+      "sha256": "58f2bb92e1dd127853ae1507735c0100164e2fa8fb35eb143fc863ce9abe87e7"
+    },
+    {
+      "path": "RELEASE_SCOPE.md",
+      "bytes": 909,
+      "sha256": "be31520ddf39dfec0ff6865386cc9677595d217e8f7c35e3aa558f57454d85b6"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1765,
+      "sha256": "8faee54272443b7f3c874d47b84f05c74bb3e106632303048338ec77bc2a79ee"
+    },
+    {
+      "path": "code/analyze_fetrig_subset.py",
+      "bytes": 16939,
+      "sha256": "06394da1ae5757c629c47c6413a48d2f1b38d43cc01377c72db447bf060be177"
+    },
+    {
+      "path": "code/audit_legacy_observation_pinn.py",
+      "bytes": 9453,
+      "sha256": "e3140f38cfd5d1a425e6f00cdf247a1d5d2338404e0ea9c8444177756de4001b"
+    },
+    {
+      "path": "code/benchmark_forward_runtime.py",
+      "bytes": 3959,
+      "sha256": "1c37ee81ddd23c48c3cef684158bfc99906be7e92e570c8ae2eab827c2a0c2f4"
+    },
+    {
+      "path": "code/build_code_manifest.py",
+      "bytes": 2786,
+      "sha256": "73a91c9b6d688cb7d7d5985fdce947759071a441bfa0aa13651498759af56ff9"
+    },
+    {
+      "path": "code/build_publication_metrics.py",
+      "bytes": 63227,
+      "sha256": "fa9f23d9fea63de08a417fe74c884455d5d96069706740ebddf3fcc52dee7f83"
+    },
+    {
+      "path": "code/fetch_fetrig_subset.py",
+      "bytes": 9334,
+      "sha256": "c32665dc1c061edb7f0a2159bc6600e5bd31e192e48f6bdc436eb32e376c3011"
+    },
+    {
+      "path": "code/fetch_ks_archive.py",
+      "bytes": 2053,
+      "sha256": "5ef8eb2c5efed708dba5e3fd14690d1b5b9b5a81e754fd851ec9881107d52117"
+    },
+    {
+      "path": "code/generate_legacy_audit_figure.py",
+      "bytes": 5476,
+      "sha256": "857abd667e3d382089b35a1720566abed3f4e6184e3bd313e2c5756d2888af88"
+    },
+    {
+      "path": "code/ks_scale_reference_audit.py",
+      "bytes": 19383,
+      "sha256": "7a54c54ddb7614541076fa7046a31e9d7c6b5e67bba097b5bfb6987c91105718"
+    },
+    {
+      "path": "code/ks_sparse_inverse.py",
+      "bytes": 39276,
+      "sha256": "2735ba5e5649c7737e31f0944aee902fdf9135c4f505aed62eef2000f2233d32"
+    },
+    {
+      "path": "code/promote_marching_results.py",
+      "bytes": 31585,
+      "sha256": "0c7ff52d5855204e10beb05483be9c0257f44c21cabdc20b9ae31ee5a9d681ae"
+    },
+    {
+      "path": "code/refresh_marching_metrics.py",
+      "bytes": 2233,
+      "sha256": "2b17be7ad501cb0fc6522673aaf058be3ba884c7c6998b58c84485498b93ec8a"
+    },
+    {
+      "path": "code/summarize_inverse_sweep.py",
+      "bytes": 12606,
+      "sha256": "1943cdf771a988b6537c1323a7d6c489a3d9bc938448e230ec148faa03cf64da"
+    },
+    {
+      "path": "code/train_hc_causal_ks_pinn.py",
+      "bytes": 24588,
+      "sha256": "5b867f5b5ce4f5da9646b663f9a3bf13b3b2d7edffa82797fe9072ab329d250f"
+    },
+    {
+      "path": "code/train_hc_marching_ks_pinn.py",
+      "bytes": 29975,
+      "sha256": "f9b738138136a275cacd451e7ac7ec5ea6af2d58e53cc47404ba511c7822673a"
+    },
+    {
+      "path": "code/verify_release_manifest.py",
+      "bytes": 2532,
+      "sha256": "d7530fdb2c91999617d6ebe332cfb68358a5c48d43a90e235e76a6727758fbbe"
+    },
+    {
+      "path": "reproduce.sh",
+      "bytes": 3578,
+      "sha256": "51d003937bc3be7fd81c77c0eef18bd3f8451d9fb098903a99a45b0a60a0124b"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 223,
+      "sha256": "f5db2cfaaa0d0bedc1835566682e82328e4bae27202536214541011763301bea"
+    }
+  ]
+}

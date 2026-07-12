@@ -1,0 +1,7 @@
+# Exact package versions recorded for the scientific calculations.
+# Python 3.14.5, macOS arm64, Apple M4; torch was imported before NumPy/SciPy.
+torch==2.10.0
+numpy==2.4.2
+scipy==1.17.1
+matplotlib==3.10.8
+requests==2.32.5
