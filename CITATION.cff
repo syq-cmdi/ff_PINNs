@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this code repository."
+type: software
+title: "ff_PINNs: Scale-consistent KS solver and PINN source code"
+version: "1.0.0-code-only"
+date-released: 2026-07-12
+authors:
+  - family-names: Shi
+    given-names: Yuqi
+    affiliation: "China Mobile Group Design Institute Co., Ltd."
+    email: shiyuqi@zju.edu.cn
+  - family-names: Liu
+    given-names: Hong
+    affiliation: "China Mobile Group Design Institute Co., Ltd."
+  - family-names: Luo
+    given-names: Hailiang
+    affiliation: "China Mobile Group Design Institute Co., Ltd."
+repository-code: "https://github.com/syq-cmdi/ff_PINNs"
+license: MIT
+keywords:
+  - Kuramoto-Sivashinsky equation
+  - physics-informed neural networks
+  - Fourier spectral methods
+  - nonlinear dynamics
